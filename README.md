@@ -1,5 +1,4 @@
 
-https://user-images.githubusercontent.com/56285732/117537470-473a0880-b02b-11eb-9fc3-40e5536ba8cd.mp4
 
 # elexto_music
 
@@ -17,3 +16,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+https://user-images.githubusercontent.com/56285732/117537637-82890700-b02c-11eb-978d-32a19a76f5ef.mp4
+
